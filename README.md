@@ -1,5 +1,5 @@
-# "React Facts" Static Page
-Static page I created while I learn React
+# "Travel Journal" Page
+Page I created that takes advantage of React's reusability with Entry components for each location
 
 ## Tech Stack
 - **Vite**
@@ -10,12 +10,13 @@ Static page I created while I learn React
 ---
 ## Project Structure
 ```
-react-facts/
+travel-journal/
 ├── public/
 ├── src/
 │ ├── assets/
 │ ├── components/
 │ ├── App.jsx
+│ ├── data.js
 │ ├── index.css
 │ └── main.jsx
 ├── README.md
