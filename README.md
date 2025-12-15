@@ -1,10 +1,10 @@
 # "Travel Journal" Page
-Page I created that takes advantage of React's reusability with Entry components for each location
+Page I created that takes advantage of React's reusability with Entry components for each location. Follwing Scrimba "Learn React" course
 
 ## Tech Stack
 - **Vite**
 - **JavaScript**
-- **Framework**: React
+- **Library**: React
 - **Package Manager**: npm
 
 ---
